@@ -1,5 +1,7 @@
 # nuxt-slicing-ecommerce-product
 
+Figma design: https://www.figma.com/file/RYsZQEd9g30V0QTkxGrVGf/ecommerce-Product-page?node-id=0%3A1
+
 ## Build Setup
 
 ```bash
