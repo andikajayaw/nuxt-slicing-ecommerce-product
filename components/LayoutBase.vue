@@ -2,7 +2,16 @@
 <template>
   <div>
     <b-container fluid class="bv-example-row">
-      <NavbarApp />
+      <b-row>
+        <b-col cols="12">
+          <NavbarApp />
+        </b-col>
+      </b-row>
+      <b-row>
+        <b-col cols="2">
+          <ThumbnailBase />
+        </b-col>
+      </b-row>
     </b-container>
   </div>
 </template>
