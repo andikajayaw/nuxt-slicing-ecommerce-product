@@ -10,10 +10,9 @@
       <b-nav-item>TEENS</b-nav-item>
     </b-navbar-nav>
     <b-navbar-nav class="ml-auto">
-      <b-nav-item href="#">Home</b-nav-item>
-      <b-nav-item href="#">Home</b-nav-item>
-      <b-nav-item href="#">Home</b-nav-item>
-      <b-nav-item href="#">Home</b-nav-item>
+      <b-nav-item href="#">Icons</b-nav-item>
+      <b-nav-item href="#">Icons</b-nav-item>
+      <b-nav-item href="#">Icons</b-nav-item>
     </b-navbar-nav>
   </b-navbar>
 </template>
