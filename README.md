@@ -1,4 +1,4 @@
-# nuxt-slicing-ecommerce-product
+# SLICING FIGMA USING NUXT, BOOTSTRAP-VUE
 
 Figma design: https://www.figma.com/file/RYsZQEd9g30V0QTkxGrVGf/ecommerce-Product-page?node-id=0%3A1
 
